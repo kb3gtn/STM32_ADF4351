@@ -1,5 +1,5 @@
 # STM32_ADF4351
-Reference design for ADF4351 PLL control some a STM32 uC
+Reference design for ADF4351 PLL from a STM32 uC
 
 # uC targeting
 This design is fairly simple and will work on most STM32 uC.
